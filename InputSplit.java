@@ -1,7 +1,7 @@
 package inputtchniques;
 
 
-public class InputFileSplit{
+public class InputSplit{
 	public static void main(String[]args)
 	{
 		String str="687 1234 -4785";
