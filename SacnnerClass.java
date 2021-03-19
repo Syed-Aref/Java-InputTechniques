@@ -14,8 +14,11 @@ public class SacnnerClass {
 	 * 
 	 * /
 	 /*
+	 EOF(line)
 	 https://ideone.com/5yyd6P
+	 EOF(int-01)
 	 https://ideone.com/f5bxjo
+	 EOF(int-02)
 	 https://ideone.com/5e7iMI
 	 
 	 */
