@@ -1,6 +1,6 @@
 package inputtchniques;
 
-public class IOStream {
+public class InputStreamBufferedReader {
 	/*
 	public static void main(String[] args) {
 		InputStreamReader r = new InputStreamReader(System.in);
