@@ -14,6 +14,10 @@ public class InputStreamBufferedReader {
 		catch(Exception e) {
 			
 		}
+		finally{
+			r.close();
+        		br.close();
+		}
 		
 	}
 	*/
@@ -26,6 +30,8 @@ public class InputStreamBufferedReader {
 		String s;
 		s = br.readLine();
 		System.out.println(s);
+		r.close();
+        	br.close();
 	}
 	*/
 	// EOF
@@ -42,6 +48,10 @@ public class InputStreamBufferedReader {
 		}
 		catch(Exception e) {
  
+		}
+		finally{
+			r.close();
+        		br.close();
 		}
  
 	}
